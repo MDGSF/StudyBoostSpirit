@@ -9,3 +9,4 @@ include(${VENDOR_LINUX_HOME}/vendor_linux.cmake)
 
 add_subdirectory(demo01)
 add_subdirectory(demo02)
+add_subdirectory(demo03_complex_number)
