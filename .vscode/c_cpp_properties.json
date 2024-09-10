@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/huangjian/git/huangjian/vendor_linux/binary/ubuntu2004_gcc9.4.0/**",
+                "/home/huangjian/git/huangjian/vendor_linux/binary/ubuntu2004_gcc9.4.0/boost/boost-1.81.0"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
